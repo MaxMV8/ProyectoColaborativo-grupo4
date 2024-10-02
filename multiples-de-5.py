@@ -1,4 +1,4 @@
-# Generar la lista del 1 al 100
+# Generar la lista del 1 al 100 y cambia los multiples de 5 por cola
 lista = []
 
 for i in range(1, 101):
