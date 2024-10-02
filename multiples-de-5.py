@@ -3,7 +3,7 @@ lista = []
 
 for i in range(1, 101):
     if i % 5 == 0:
-        lista.append("cola")
+        lista.append("Buzz")
     else:
         lista.append(i)
 
